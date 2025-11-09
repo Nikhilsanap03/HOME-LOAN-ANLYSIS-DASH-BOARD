@@ -2,6 +2,8 @@
 
 ## 📊 Project Overview
 The **Home Loan Analysis Dashboard** is an interactive Power BI project designed to provide a comprehensive overview of home loan performance. It visualizes and analyzes key metrics such as total applied, sanctioned, disbursed, and recovered loan amounts, helping financial institutions make data-driven decisions.
+<img width="760" height="441" alt="image" src="https://github.com/user-attachments/assets/caf4d9b0-f50f-462f-8629-3ceb79c9399a" />
+
 
 ---
 
